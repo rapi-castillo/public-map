@@ -9,7 +9,7 @@ This application supports the [Getting Started with PHP on Heroku](https://devce
 Install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
 
 ```sh
-$ git clone git@github.com:heroku/php-getting-started.git # or clone your own fork
+$ git clone git@github.com:rapi-castillo/public-map.git # or clone your own fork
 $ cd php-getting-started
 $ heroku create
 $ git push heroku master
